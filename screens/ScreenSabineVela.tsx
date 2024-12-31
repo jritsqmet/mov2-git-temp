@@ -1,10 +1,10 @@
 import { StyleSheet, Text, View } from 'react-native'
 import React from 'react'
 
-export default function ScreenSV() {
+export default function ScreenSabineVela() {
   return (
     <View>
-      <Text>ScreenSV</Text>
+      <Text>ScreenSabineVela</Text>
     </View>
   )
 }
