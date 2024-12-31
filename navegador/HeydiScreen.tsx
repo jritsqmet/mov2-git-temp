@@ -7,6 +7,7 @@ export default function HeydiScreen() {
       <Text>HeydiScreen</Text>
     </View>
   )
+  
 }
 
 const styles = StyleSheet.create({})
