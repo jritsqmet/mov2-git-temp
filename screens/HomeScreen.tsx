@@ -7,8 +7,10 @@ export default function HomeScreen() {
             <Text>PÁGINA DE INICIO</Text>
             <Text>PÁGINA PRINCIPAL</Text>
             <Button title='boton' />
+            <Text>Welcome ♥</Text>
         </View>
     )
+  
 }
 
 const styles = StyleSheet.create({})
